@@ -2,7 +2,7 @@
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
 
-#define servo 12 //pino do servomotor conectado a GPIO como PWM
+#define servo 22 //pino do servomotor conectado a GPIO como PWM
 
 //rotina principal
 int main()
